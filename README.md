@@ -1,7 +1,7 @@
 <h1 align="center">SEMANTIC BOOK RECOMMENDER </h1>
 
-![Home Page](image.png)
-![Book Recommended](image-1.png)
+![Home Page](./assets/image.png)
+![Book Recommended](./assets/image-1.png)
 
 <br/>
 
