@@ -24,7 +24,7 @@ books = pd.read_csv("books_with_emotions.csv")
 books["large_thumbnail"] = books["thumbnail"] + "&fife=w800"
 
 # Get all JPEG files from book-cover folder
-cover_folder = Path("book-covers")
+cover_folder = Path("assets/book-covers")
 cover_files = [str(f) for f in cover_folder.glob("*.jpeg")] + [str(f) for f in cover_folder.glob("*.jpg")]
 
 # Count how many missing thumbnails
