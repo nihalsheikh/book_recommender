@@ -157,7 +157,3 @@ run/execute the files in the following order:
 -   A user’s query is embedded the same way and compared using cosine similarity.
 -   The system filters by Fiction/Non-Fiction and sorts by emotion scores.
 -   Results appear instantly in a Gradio gallery interface.
-
----
-
-Enjoy!
